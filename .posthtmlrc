@@ -7,12 +7,171 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Since the first weekend-long Homecoming celebration in 1948, Homecoming weekend has remained a crucial part of the Columbia experience. From tailgates to picnics to parties and more, student excitement around Homecoming builds against the backdrop of a busy season of midterms and assignments. As students and alumni alike prepare for this Homecoming weekend, look back at Homecoming weekends, past and present, through the ages of Spectator."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/G6AS5JL5RJAZHO3BR5YURTLPZE.jpg",
+              "caption": "Oct. 12, 1948: Following his inauguration as the 13th University president in October 1948, President Dwight Eisenhower addressed Columbia alumni at a picnic lunch during the first weekend-long Homecoming celebration, ringing in a decades-long tradition.",
+              "credit": "Courtesy of Columbia Daily Spectator Archive."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/BWNKRAT3EVEWHJTK7JN5TM4MJ4.jpg",
+              "caption": "Oct. 8, 1956: Legendary football coach Lou Little speaking to the team during practice. Coach Little was the longest-tenured and winningest coach in Columbia football history.",
+              "credit": "Courtesy of Columbia Daily Spectator Archive."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/XNFFGGJIKZDSDMSVNA3GXYVV5Q.jpg",
+              "caption": "Oct. 14, 1978: Columbia won the 1978 Homecoming game 14-10 against Princeton.",
+              "credit": "Jeff Tamarin."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/6LGT2MBKY5BQTGMRQ4NR3X4P4M.jpg",
+              "caption": "Oct. 13, 1984: Columbia’s 1934 Rose Bowl team was honored at the 1984 Homecoming game against Princeton. The Lions ultimately lost the game, 38-8.",
+              "credit": "David Fondiller."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SK27DKMU6BDCNA5EMUBAYVZYVY.jpg",
+              "caption": "Oct. 8, 1988: Columbia snapped a NCAA Division I record 44-game losing streak during a legendary game against Princeton. The Lions won 16-13, and students celebrated the end of the drought by storming the field.",
+              "credit": "Ed Bailey."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/24JLTRAC4VDQVNV4YADBJ37V5E.jpg",
+              "caption": "Oct. 8, 1988: Moments from the field during the 1988 Homecoming game.",
+              "credit": "Ed Bailey."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/QSKIZQSHQJAXXI2REWTMWCLLPU.jpg",
+              "caption": "Oct. 16, 1999: Columbia and Penn went head to head during the 1999 Homecoming game. Penn ultimately trounced Columbia, winning 41-17.",
+              "credit": "Sari Levine."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/D6VZ4JBWFRHBRC54Z6FHX5ZGYE.jpg",
+              "caption": "Oct. 16, 1999: Columbia’s senior quarterback at the time, Mike Glynn, pictured after being leveled by Penn’s defense.",
+              "credit": "Sari Levine."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SDD442PDOBEG7A3ZU2CMI7GWQI.jpg",
+              "caption": "Oct. 21, 2000: Over 9,000 students packed Wien Stadium for the Homecoming game against Dartmouth, where Columbia prevailed 49-21.",
+              "credit": "Pat Holder."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/AXDWHUXS7ZCCLHGDP652UDR4E4.jpg",
+              "caption": "Oct. 21, 2000: The now-defunct Columbia Marching Band during the 2000 Homecoming game against Dartmouth.",
+              "credit": "Shawn Choy."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZEHIKWJJCJHM5K3BMH2V3RKU3A.jpg",
+              "caption": "Oct. 4, 2008: The Lions attempted a fake field goal play during the 2008 Homecoming game against Princeton.",
+              "credit": "Lisa Lewis."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/EW3XOMSGI5GPBD7COLGNFBURZM.jpg",
+              "caption": "Oct. 20, 2012: Columbia’s offense was pummeled by Dartmouth during the 2012 Homecoming game, which marked the 12th straight Homecoming loss.",
+              "credit": "Alyson Goulden."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/NMLL57YHHZFIJHPNDR2SH442DM.jpg",
+              "caption": "Oct. 18, 2025: Fans fill Wien Stadium during the 2025 Homecoming game. Columbia lost to Penn, 35-21.",
+              "credit": "Giada Robinson."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/GUEBWM5UZBGCXKY24A4CK2FHYQ.jpg",
+              "caption": "Oct. 18, 2025: The 2025 Homecoming defeat marked Columbia’s fourth consecutive loss.",
+              "credit": "Esmeralda Paredes."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/UY7U26WXFBE27ASOTDEYKQ2LTI.JPG",
+              "caption": "With Homecoming weekend on the horizon, Spectator’s coverage will turn its lens to students and the Baker Athletics Complex, marking another year of Homecoming festivities.",
+              "credit": "Audrea Chen."
+            }
+          },
+          {
+            "type": "text",
+            "value": "<i>Photo Editor Audrea Chen can be contacted at </i><a href=\"mailto:audrea.chen@columbiaspectator.com\"><i>audrea.chen@columbiaspectator.com. </i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Data Visualization Reporter Sita Vemuri can be contacted at </i><a href=\"mailto:sita.vemuri@columbiaspectator.com\"><i>sita.vemuri@columbiaspectator.com</i></a><i>.</i><a href=\"mailto:eliza.lamster@columbiaspectator.com\"><i> </i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter</i></b></a><b><i> and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Homecoming’s past and present in photos",
+        "dek": "Frames of the game, student spirit, and more—–look back at Homecoming weekend through Spectator’s archive.",
+        "date": "October 20th, 2026",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/audrea-chen/\">Audrea Chen</a>",
+        "byline2": "Web Design by <a href=\"https://www.columbiaspectator.com/contributors/audrea-chen/\">Audrea Chen</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/DYB2N42SDBHB7G2MBC3ZNHHDF4.jpg",
+        "cover_caption": "Oct. 21, 2000: A frame from the 2000 Homecoming game. Pat Holder / Columbia Daily Spectator",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1YdfG14dWxTzPgb9v2xaAxRn2D49kp_xuUMuTH2Yzycw/edit?tab=t.0"
       }
     }
   }

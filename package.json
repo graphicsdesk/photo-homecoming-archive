@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "photo-homecoming-archive",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -32,8 +32,8 @@
   "spectate": {
     "USE_NEWS_NAV": true,
     "USE_EYE_NAV": false,
-    "USE_COVER_HED": false,
+    "USE_COVER_HED": true,
     "IS_EMBED": false,
-    "DOC_URL": null
+    "DOC_URL": "https://docs.google.com/document/d/1YdfG14dWxTzPgb9v2xaAxRn2D49kp_xuUMuTH2Yzycw/edit?tab=t.0"
   }
 }
